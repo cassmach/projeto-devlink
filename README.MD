@@ -3,7 +3,7 @@
 <p align="center">
 Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
 <br>
-Veja ele aqui > https://zertel95.github.io/projeto-devlink/
+Veja ele aqui > https://cassmach.github.io/projeto-devlink/
 </p>
 
 <p align="center">
